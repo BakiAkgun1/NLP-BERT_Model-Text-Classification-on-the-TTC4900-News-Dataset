@@ -76,5 +76,5 @@ The **TTC4900 dataset** is a collection of Turkish news articles categorized int
 ## References
 - TTC4900 Dataset: https://www.kaggle.com/datasets/savasy/ttc4900
 - Preprocessing and Feature Engineering Techniques: https://www.kaggle.com/code/alperenclk/for-beginner-nlp-and-word2vec 
-- Transformer Models (BERT, Fine-tuning)
-- Advanced Neural Networks
+- Transformer Models (BERT, Fine-tuning) for dataset: https://huggingface.co/savasy/bert-turkish-text-classification
+
