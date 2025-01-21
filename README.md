@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/3606193e-4b79-4a7f-9372-edb564f18e66)# Text Classification on the TTC4900 News Dataset
-
 ## Overview
 This project explores text classification on the TTC4900 dataset using various natural language processing (NLP) techniques and machine learning models. The study compares traditional machine learning algorithms, advanced neural networks, and state-of-the-art transformer models to identify the best-performing method for Turkish text classification tasks.
 
