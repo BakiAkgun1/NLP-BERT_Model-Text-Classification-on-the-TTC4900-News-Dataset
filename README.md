@@ -5,6 +5,7 @@ This project explores text classification on the TTC4900 dataset using various n
 
 ## Dataset
 The **TTC4900 dataset** is a collection of Turkish news articles categorized into 10 distinct classes (e.g., economy, sports, technology). The dataset contains:
+
 -**4900 samples** 
 -**Number of Classes: 10 (e.g., economy, sports, technology, etc.)**
 -**an average text length of 120 words.** 
