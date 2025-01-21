@@ -23,7 +23,7 @@ The **TTC4900 dataset** is a collection of Turkish news articles categorized int
 - **Case Normalization**: Converting text to lowercase.
 - **Stopword Removal**: Eliminating common words with minimal semantic value.
 - **Special Character Removal**: Removing punctuation and special characters.
-- 
+  
 ![image](https://github.com/user-attachments/assets/bfdbcfe2-5bad-49a7-87dc-1a7796f19a33)
 
 
@@ -44,7 +44,7 @@ The **TTC4900 dataset** is a collection of Turkish news articles categorized int
 - XGBoost
 - LightGBM
 - Artificial Neural Networks (ANN)
-- 
+  
 ![image](https://github.com/user-attachments/assets/d8df4e57-97e0-48ed-be33-f328446c8b0a)
 
 #### Advanced Neural Networks:
